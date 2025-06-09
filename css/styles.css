@@ -18,3 +18,13 @@ font-family: "DotGothic16", sans-serif;
     color: #ff6347; /* Tomato color on hover */
     transition: color 0.3s ease;
 }
+
+.title{
+font-family: "DotGothic16", sans-serif;
+    
+}
+
+.title:hover {
+    color: #ff6347; /* Tomato color on hover */
+    transition: color 0.3s ease;
+}
