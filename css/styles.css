@@ -1,0 +1,20 @@
+.profile-image {
+    width: 300px;
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.profile-image:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+.text{
+font-family: "DotGothic16", sans-serif;
+    font-size: 30px
+}
+
+.text:hover {
+    color: #ff6347; /* Tomato color on hover */
+    transition: color 0.3s ease;
+}
